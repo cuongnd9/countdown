@@ -10,7 +10,6 @@
 
 * [Installation](#installation)
 * [Demo](#demo)
-* [Build with](#build-with)
 * [Documents](#documents)
 * [Bugs and Issues](#bugs-and-issues)
 * [Authors](#authors)
@@ -41,10 +40,6 @@ Enjoy 😍
 ## Demo
 
 You can use this app [here](https://drive.google.com/file/d/18KXJYTCx-77Fm9jR-nFuBNmlnb07WDdL/view?usp=sharing).
-
-## Build with
-
-* [Visual Studio 2017](https://visualstudio.microsoft.com/fr/downloads/?rr=https%3A%2F%2Fwww.google.com.vn%2F)
 
 ## Documents
 
