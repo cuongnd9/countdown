@@ -102,7 +102,7 @@ namespace CountdownClock
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string targetURL = @"https://www.facebook.com/ndc07.it";
+            string targetURL = @"https://github.com/103cuong";
             System.Diagnostics.Process.Start(targetURL);
         }
     }
