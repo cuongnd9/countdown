@@ -1,10 +1,6 @@
 # Countdown
 
-⏳ A countdown app using C#.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/34389409/49017001-47771e00-f1ba-11e8-8d6f-9c597ec0db36.gif" width="600"/>
-</p>
+A simple countdown ⏳ app.
 
 ## Contents
 
